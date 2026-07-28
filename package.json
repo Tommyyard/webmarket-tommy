@@ -1,0 +1,25 @@
+{
+  "name": "webmarket-tommy",
+  "version": "1.0.0",
+  "description": "WebMarket Tommy adalah sebuah proyek pengembangan platform e-commerce yang dibangun dengan pendekatan bertahap. Proyek ini menggabungkan dedikasi dalam mempelajari fundamental web development dengan visi untuk menciptakan solusi marketplace yang fungsional, khusus, dan siap digunakan untuk kebutuhan proyek nyata di masa depan.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tommyyard/webmarket-tommy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tommyyard/webmarket-tommy/issues"
+  },
+  "homepage": "https://github.com/Tommyyard/webmarket-tommy#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
